@@ -15,7 +15,6 @@ created: 2026-04-21
 
 | Приоритет (backlinks из Notes) | Файл | Год | card_id | literature_status |
 |---:|:---|:---|:---|:---|
-| 14 | [[Б37 — Аллен — Getting Things Done]] | 2001 | `Б37` | stub |
 | 13 | [[Б11 — Chi 1989 — self-explanation]] | 1989 | `Б11` | stub |
 | 11 | [[Б5 — Andy Matuschak — Evergreen notes]] |  | `Б5` | stub |
 | 10 | [[Б34 — Roediger Karpicke 2006 — test enhanced learning]] | 2006 | `Б34` | stub |
