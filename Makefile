@@ -7,7 +7,7 @@ PY := python3
 help:
 	@echo "Targets:"
 	@echo "  make literature-backlog  — пересчитать таблицу stub в System/literature-backlog.md"
-	@echo "  make check-wikilinks      — проверить разрешимость [[wikilink]] по vault"
+	@echo "  make check-wikilinks      — проверить разрешимость wikilink-целей по vault"
 
 literature-backlog:
 	$(PY) "$(ROOT)Scripts/literature_backlog.py" --write
