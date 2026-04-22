@@ -31,4 +31,6 @@ cd system_learn
 
 ## Правила для агента Cursor
 
-См. `.cursor/rules/system_learn-vault.mdc` и `.cursor/rules/system_learn-sources.mdc`.
+- `.cursor/rules/system_learn-vault.mdc` — соглашения vault (YAML, `card_id`, голос, ссылки).
+- `.cursor/rules/system_learn-sources.mdc` — workflow разбора источников и оформления литкарточек.
+- `.cursor/rules/system_learn-insights.mdc` — поиск инсайтов, неожиданных связей и кандидатов в новые заметки/кластеры.
